@@ -2,7 +2,7 @@
 Just a Test from our course to learn how to use GitHub
 No Copyright, No Copyleft
 
-https://img.shields.io/github/followers/PierreMARQUER?label=Me%20suivre&style=social
+![GitHub followers](https://img.shields.io/github/followers/PierreMARQUER?label=Me%20suivre&style=social)
 
 # Introduction et concept de base de Git src : [Le cours](https://drive.google.com/file/d/16thTmrSW2qNAHewvLlol2HENz6R-92VC/view)
 - [x] Créé un compte Github
